@@ -1,0 +1,55 @@
+{
+  "fill" : {
+    "automatic-gradient" : "display-p3:0.30171,0.47261,0.96783,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "blend-mode" : "normal",
+          "fill" : {
+            "linear-gradient" : [
+              "display-p3:1.00000,0.99039,0.96683,1.00000",
+              "display-p3:0.53714,0.89471,0.96783,1.00000"
+            ],
+            "orientation" : {
+              "start" : {
+                "x" : 0.6693432663907337,
+                "y" : 0
+              },
+              "stop" : {
+                "x" : 0.2584760574278216,
+                "y" : 1
+              }
+            }
+          },
+          "glass" : true,
+          "hidden" : false,
+          "image-name" : "392608_broom_v1832df8448.svg",
+          "name" : "392608_broom_v1832df8448",
+          "position" : {
+            "scale" : 2.6,
+            "translation-in-points" : [
+              -3.9942683459632917,
+              7.992292300608483
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
